@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brownleg, better known as SamuelBRownlee
+- 👋 Hi, I’m @brownleg, better known as Samuel Brownlee
 - 👀 I’m interested in Computer Security and Computer Gaming
 - 🌱 I’m currently learning Computer Science at Grant MacEwan University
 - 💞️ I’m looking to collaborate on SQL projects to learn the system
